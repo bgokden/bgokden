@@ -1,79 +1,47 @@
 # Berk Gökden
 
-**Software Engineer | ML/AI, Data Engineering & Distributed Systems Specialist**
+**AI/ML & Data Engineer** — AI Agents · Voice AI · RAG · Production ML
+📍 Amsterdam, Netherlands · Remote (EU) · 🇳🇱 Dutch citizen (EU work authorization)
 
-I'm an experienced engineer passionate about building high-performance systems, designing data architectures, and solving complex technical challenges. I love the entire spectrum of software engineering—from low-level systems programming to architecting scalable data platforms and creating intelligent agent systems.
+Full-stack AI/ML & Data Engineer who builds and ships GenAI applications and production
+ML systems end-to-end — fast and cost-efficiently. Freelance since 2022 for clients
+including **Klarna**, **Booking.com**, and **ING**, and founder of
+**[PrimAxiom Labs](https://primaxiom.ai)**. 15+ years of production software engineering.
 
-## What I Do
+🌐 [berkgokden.com](https://berkgokden.com) · 💼 [LinkedIn](https://linkedin.com/in/berkgokden) · 🤗 [Hugging Face](https://huggingface.co/Berk) · ✉️ berk@primaxiom.ai
 
-I specialize in building production-grade systems at the intersection of **machine learning**, **data engineering**, and **distributed computing**. My work spans:
+## Highlights
 
-- **Data Engineering & Architecture**: Designing scalable data platforms, data lakes, data warehouses, ETL/ELT pipelines, and real-time streaming architectures
-- **AI/ML Infrastructure**: Feature stores, recommender systems, LLM tooling, and scalable ML pipelines
-- **Agent Systems**: Designing and building autonomous agents, multi-agent architectures, and intelligent automation
-- **Distributed Systems**: High-performance data processing, cloud-native architectures, and microservices
-- **Systems Programming**: Performance-critical applications in Go and C++
+- Built an internal AI platform for **5,000+ employees** at Klarna — **40%** efficiency gains, **15+ hrs/week** saved per team
+- **Design, build, and deploy production AI agent systems** — multi-agent orchestration, agent memory (short/long-term), MCP, evaluation, and guardrails
+- Cut infrastructure cost **90%+** with an AI load-prediction optimizer at Vamp.io (acquired by CircleCI)
+- Ship CI-tested open-source AI tooling + **16 published models**
 
-## Featured Projects
+## Featured open source
 
-### [veri](https://github.com/bgokden/veri) ⭐ 54
-A **scalable feature store** built in Go for machine learning applications. Supports KNN search and efficient feature serving for ML models in production.
+| Project | What it is |
+|---|---|
+| **[voxbrief](https://github.com/bgokden/voxbrief)** | Local meeting-intelligence voice agent: Whisper → structured brief (decisions, action items) → Q&A. Library · CLI · MCP server. |
+| **[place-extractor-mcp](https://github.com/bgokden/place-extractor-mcp)** | MCP server for multilingual place extraction (13 languages), backed by mDeBERTa/ONNX models. |
+| **[synthspan](https://github.com/bgokden/synthspan)** | Synthetic labeled-data generator for NER — templates/gazetteers or local-LLM few-shot with structured output + augmentation. |
+| **[veri](https://github.com/bgokden/veri)** | Vector search engine in Go for ML feature serving. |
+| **[llama-constrain](https://github.com/bgokden/llama-constrain)** | Constrained / structured generation for llama.cpp (GGUF). |
+| **[🤗 Berk](https://huggingface.co/Berk)** | 16 multilingual mDeBERTa place/entity extraction models (ONNX). |
 
-### [llama-constrain](https://github.com/bgokden/llama-constrain)
-A **constrained generation library** for llama.cpp that prevents malformed outputs. Enables structured output generation (XML, JSON) from LLMs with guaranteed correctness.
+## Tech
 
-### [miniagent](https://github.com/bgokden/miniagent)
-A lightweight **AI agent framework** designed to work with minimal resources. Built in Go for efficient deployment in resource-constrained environments.
-
-### [lstm-recommender-example](https://github.com/bgokden/lstm-recommender-example)
-A **recommender system** using Keras LSTM that treats product purchases as time-series data. Demonstrates practical deep learning applications in e-commerce.
-
-### [go-encrypt](https://github.com/bgokden/go-encrypt)
-Encryption and hash library for Go, providing secure cryptographic primitives for distributed applications.
+**Agents** — multi-agent orchestration · agent memory (short/long-term) · RAG · MCP · LangChain/LangGraph · Claude Agent SDK
+**Eval & safety** — Arize/Phoenix · guardrails · PII redaction · OWASP LLM Top 10
+**Models & inference** — OpenAI · Anthropic · Gemini · Qwen · Llama · fine-tuning · Whisper · vLLM · llama.cpp · constrained decoding
+**Cloud GenAI** — Azure OpenAI · AWS Bedrock
+**Data & vector** — pgvector · FAISS · Pinecone · Qdrant · PySpark · Snowflake · Kafka · Airflow
+**Platform** — Python · Go · TypeScript · SQL · Kubernetes · Docker · Terraform · CI/CD · AWS · GCP
 
 ## Experience
 
-- **AI/ML Engineer** at Klarna
-- **Senior Software Engineer - Data** at Booking.com
-- **Senior Data Engineer** at ING
-- **Big Data Engineer/Machine Learning Engineer** at VodafoneZiggo
-- **Machine Learning Engineer** at DPG Media Netherlands
-- **Lead Developer** at Vamp.io
-- **Senior Software Engineer** at Caspar AI
-- **Senior Software Engineer** at Zoover/Weeronline
-- **Developer** at SAP SE
-- **Software Engineer** at T2 Software
-- **Software Engineer** at Aselsan
+Freelance AI/ML engineer (contract) since 2022 — **Klarna** (Senior AI Engineer),
+**Booking.com**, **ING**; Engineering Lead at **Vamp.io** (acquired by CircleCI); earlier
+VodafoneZiggo, DPG Media, Caspar AI, SAP, and more.
 
-Most of my professional work remains proprietary, but I contribute to open-source projects focused on ML infrastructure, agent systems, and distributed computing tools.
-
-## Technical Expertise
-
-**Languages**: Go, Python, C++, Java, Scala
-**ML/AI**: TensorFlow, Keras, PyTorch, LLMs, Feature Engineering, Model Serving, Agent Architectures
-**Data Engineering**: ETL/ELT Pipelines, Data Warehousing, Data Modeling, Real-time Processing, Data Orchestration
-**Data Architecture**: Data Lakes, Lakehouses, Data Mesh, Dimensional Modeling, Data Governance, Schema Design
-**Big Data**: Hazelcast, Kafka, Spark, Flink, Distributed Computing, Stream Processing
-**Cloud & Infrastructure**: Kubernetes, Docker, AWS, GCP, Azure, Microservices, CI/CD
-**Databases**: PostgreSQL, Redis, Vector Databases, Time-Series DBs, Snowflake, BigQuery
-**Specializations**: Distributed Systems, Data Platform Architecture, Agent Systems, Performance Optimization, ML Infrastructure
-
-## Currently Exploring
-
-- Large Language Models and constrained generation techniques
-- Multi-agent systems and autonomous agent architectures
-- Efficient ML model serving and inference optimization
-- Real-time feature stores and online learning systems
-- Modern data platform architectures and lakehouse patterns
-
-## Let's Connect
-
-- **Website**: [berkgokden.com](http://www.berkgokden.com)
-- **LinkedIn**: [linkedin.com/in/berkgokden](https://www.linkedin.com/in/berkgokden)
-- **Location**: Amsterdam, Netherlands
-
-**Open to**: Opportunities in ML/AI, data engineering, agent systems, technical collaborations, and interesting engineering challenges.
-
----
-
-*Driven by curiosity, powered by code. Always learning, always building.*
+Founder of **[PrimAxiom Labs](https://primaxiom.ai)** — an Amsterdam venture building and
+operating AI-driven software products.
