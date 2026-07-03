@@ -22,6 +22,7 @@ including **Klarna**, **Booking.com**, and **ING**, and founder of
 | Project | What it is |
 |---|---|
 | **[voxbrief](https://github.com/bgokden/voxbrief)** | Local meeting-intelligence voice agent: Whisper → structured brief (decisions, action items) → Q&A. Library · CLI · MCP server. |
+| **[personalens](https://github.com/bgokden/personalens)** | A code review, but for UX — Playwright + a vision LLM review a URL from each persona's point of view, with scores you can track and gate in CI. |
 | **[place-extractor-mcp](https://github.com/bgokden/place-extractor-mcp)** | MCP server for multilingual place extraction (13 languages), backed by mDeBERTa/ONNX models. |
 | **[synthspan](https://github.com/bgokden/synthspan)** | Synthetic labeled-data generator for NER — templates/gazetteers or local-LLM few-shot with structured output + augmentation. |
 | **[veri](https://github.com/bgokden/veri)** | Vector search engine in Go for ML feature serving. |
