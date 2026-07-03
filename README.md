@@ -4,7 +4,7 @@
 📍 Amsterdam, Netherlands · Remote (EU) · 🇳🇱 Dutch citizen (EU work authorization)
 
 Full-stack AI/ML & Data Engineer who builds and ships GenAI applications and production
-ML systems end-to-end — fast and cost-efficiently. Freelance since 2022 for clients
+ML systems end-to-end — fast and cost-efficiently. Freelance since 2021 for clients
 including **Klarna**, **Booking.com**, and **ING**, and founder of
 **[PrimAxiom Labs](https://primaxiom.ai)**. 15+ years of production software engineering.
 
@@ -40,7 +40,7 @@ including **Klarna**, **Booking.com**, and **ING**, and founder of
 
 ## Experience
 
-Freelance AI/ML engineer (contract) since 2022 — **Klarna** (Senior AI Engineer),
+Freelance AI/ML engineer (contract) since 2021 — **Klarna** (Senior AI Engineer),
 **Booking.com**, **ING**; Engineering Lead at **Vamp.io** (acquired by CircleCI); earlier
 VodafoneZiggo, DPG Media, Caspar AI, SAP, and more.
 
