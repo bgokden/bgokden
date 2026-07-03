@@ -12,10 +12,10 @@ including **Klarna**, **Booking.com**, and **ING**, and founder of
 
 ## Highlights
 
-- Built an internal AI platform for **5,000+ employees** at Klarna — **40%** efficiency gains, **15+ hrs/week** saved per team
+- Built an internal AI platform for **5,000+ employees** at Klarna — **40%** efficiency gains and lower cost per meeting
 - **Design, build, and deploy production AI agent systems** — multi-agent orchestration, agent memory (short/long-term), MCP, evaluation, and guardrails
 - Cut infrastructure cost **90%+** with an AI load-prediction optimizer at Vamp.io (acquired by CircleCI)
-- Ship CI-tested open-source AI tooling + **16 published models**
+- Ship CI-tested open-source AI tooling + published multilingual NER models
 
 ## Featured open source
 
@@ -27,7 +27,7 @@ including **Klarna**, **Booking.com**, and **ING**, and founder of
 | **[synthspan](https://github.com/bgokden/synthspan)** | Synthetic labeled-data generator for NER — templates/gazetteers or local-LLM few-shot with structured output + augmentation. |
 | **[veri](https://github.com/bgokden/veri)** | Vector search engine in Go for ML feature serving. |
 | **[llama-constrain](https://github.com/bgokden/llama-constrain)** | Constrained / structured generation for llama.cpp (GGUF). |
-| **[🤗 Berk](https://huggingface.co/Berk)** | 16 multilingual mDeBERTa place/entity extraction models (ONNX). |
+| **[🤗 Berk](https://huggingface.co/Berk)** | Multilingual mDeBERTa place/entity extraction models (ONNX). |
 
 ## Tech
 
