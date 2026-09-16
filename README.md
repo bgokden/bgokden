@@ -17,10 +17,19 @@ including **Klarna**, **Booking.com**, and **ING**, and founder of
 - Cut infrastructure cost **90%+** with an AI load-prediction optimizer at Vamp.io (acquired by CircleCI)
 - Ship CI-tested open-source AI tooling + published multilingual NER models
 
+## PrimAxiom Labs
+
+Founder of **[PrimAxiom Labs](https://primaxiom.ai)** (Amsterdam): graph memory for AI agents, built on small open models that run on CPU in the EU, with every claim measured and the negatives published alongside the wins.
+
+- **[reasongraph](https://github.com/bgokden/reasongraph)** — MIT library: facts in, entities and cause→effect relations extracted, multi-hop recall with a cited chain. `pip install reasongraph`, npm, LangChain/LangGraph, MCP.
+- **[ReasonGraph Cloud](https://memory.primaxiom.ai)** — the hosted memory service (free plan, remote MCP for Claude Code, EU-hosted, no LLM in the loop).
+- **[causal-span-model](https://github.com/bgokden/causal-span-model)** — the causal extractor: 0.70 F1 on CausalNewsCorpus vs the 0.627 organizer baseline, beating few-shot 7B LLMs. Open weights on [Hugging Face](https://huggingface.co/Berk/causal-span-pointer-v2).
+
 ## Featured open source
 
 | Project | What it is |
 |---|---|
+| **[reasongraph](https://github.com/bgokden/reasongraph)** | Graph memory for AI agents: entities + cause→effect extraction on add, multi-hop recall with a cited chain, conflict resolution, time-travel, counterfactuals. Library · HTTP/MCP service · LangChain. |
 | **[voxbrief](https://github.com/bgokden/voxbrief)** | Local meeting-intelligence voice agent: Whisper → structured brief (decisions, action items) → Q&A. Library · CLI · MCP server. |
 | **[personalens](https://github.com/bgokden/personalens)** | A code review, but for UX — Playwright + a vision LLM review a URL from each persona's point of view, with scores you can track and gate in CI. |
 | **[place-extractor-mcp](https://github.com/bgokden/place-extractor-mcp)** | MCP server for multilingual place extraction (13 languages), backed by mDeBERTa/ONNX models. |
