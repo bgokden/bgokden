@@ -25,6 +25,9 @@ models, evaluation, and inference.
 | **[assay](https://github.com/bgokden/assay)** | Answers many typed questions about a text in one forward pass of a language model, with calibrated probabilities and an "enough evidence?" score. Full training pipeline; six models on Hugging Face. |
 | **[causal-span-model](https://github.com/bgokden/causal-span-model)** | Multilingual cause/effect span tagger (mDeBERTa) used by ReasonGraph. |
 | **[llama-constrain](https://github.com/bgokden/llama-constrain)** | Custom llama.cpp sampler for strict constrained / structured generation (GGUF). |
+| **[personalens](https://github.com/bgokden/personalens)** | A code review, but for UX: Playwright and a vision LLM review a URL from each persona's point of view, with scores you can track and gate in CI. |
+| **[synthspan](https://github.com/bgokden/synthspan)** | Synthetic labeled-data generator for NER: templates and gazetteers or local-LLM few-shot with structured output, plus augmentation. |
+| **[veri](https://github.com/bgokden/veri)** | Vector search engine in Go for ML feature serving. |
 | **[🤗 Berk](https://huggingface.co/Berk)** | Small multilingual extraction models (place extraction in 13 languages, causal tagging), with ONNX versions for CPU. |
 
 ## Skills
