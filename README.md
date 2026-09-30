@@ -17,6 +17,11 @@ models, evaluation, and inference.
 - Cut infrastructure cost **90%+** with an AI load-prediction optimizer at Vamp.io (acquired by CircleCI), where I led a 12-person engineering team
 - Build and run my own open-source AI systems: **ReasonGraph** (memory for AI agents) and **Assay** (calibrated decision models, 149M–27B)
 
+## Available for projects
+
+I take on AI projects through PrimAxiom: a short paid scoping step, then a four-week pilot, or a small custom model on your own servers. Contract roles are welcome too.
+Email **berk@primaxiom.ai** · [primaxiom.ai](https://primaxiom.ai)
+
 ## Featured open source
 
 | Project | What it is |
