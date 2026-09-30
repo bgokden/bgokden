@@ -3,8 +3,8 @@
 **Senior AI/ML Engineer** — I build and run production AI systems end to end: agents, LLM platforms, data
 📍 Amsterdam, Netherlands · Remote (EU) · 🇳🇱 Dutch citizen (EU work authorization)
 
-Senior, hands-on AI/ML engineer with 15+ years in production software. Freelance since 2021
-for **Klarna**, **Booking.com**, **ING** and others. I work directly with product and business
+Senior, hands-on AI/ML engineer with 15+ years in production software. Independent consultant since 2021
+for **Klarna**, **Booking.com**, **ING** and others, now through my own company, **[PrimAxiom](https://primaxiom.ai)**. I work directly with product and business
 stakeholders, mentor engineers, and go deep on the stack below the API: fine-tuning, small
 models, evaluation, and inference.
 
@@ -39,7 +39,7 @@ models, evaluation, and inference.
 
 ## Experience
 
-Machine Learning Engineer (contract) at **Booking.com** · Senior AI Engineer (contract) at
+Machine Learning Engineer at **Booking.com** (consultant via PrimAxiom) · Senior AI Engineer (contract) at
 **Klarna** · earlier ING, VodafoneZiggo, DPG Media, Caspar AI, Engineering Lead at **Vamp.io**
 (acquired by CircleCI), SAP. Founder and director of **[PrimAxiom](https://primaxiom.ai)**.
 
